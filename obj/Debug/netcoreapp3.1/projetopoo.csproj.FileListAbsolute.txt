@@ -1,0 +1,13 @@
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.exe
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.deps.json
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.runtimeconfig.json
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.runtimeconfig.dev.json
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.dll
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\bin\Debug\netcoreapp3.1\projetopoo.pdb
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.csprojAssemblyReference.cache
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.csproj.CoreCompileInputs.cache
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.AssemblyInfoInputs.cache
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.AssemblyInfo.cs
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.dll
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.pdb
+C:\Users\Lalii\Source\Repos\projetopoo\projetopoo\obj\Debug\netcoreapp3.1\projetopoo.genruntimeconfig.cache
